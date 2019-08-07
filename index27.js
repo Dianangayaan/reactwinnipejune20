@@ -3,8 +3,8 @@ let secondNumber = 2;
 let templateAdd = `I added ${firstNumber} + ${secondNumber} and the result is`
 let templatesub = `I subtract ${firstNumber} - ${secondNumber} and the result is`
 let templatemul = `I multiply ${firstNumber} * ${secondNumber} and the result is`
-let templatediv = `I divide ${firstNumber} / ${secondNumber} and the result is`
-let templateremainder = `I divide ${firstNumber} / ${secondNumber} and the remainder result is`
+let templatediv = `I divided ${firstNumber} / ${secondNumber} and the result is`
+let templateremainder = `I divided ${firstNumber} / ${secondNumber} and the remainder result is`
 
 
 console.log(templateAdd, '=', firstNumber + secondNumber );

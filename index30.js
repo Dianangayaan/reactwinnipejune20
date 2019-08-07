@@ -1,4 +1,3 @@
-const length = 5; //side length
-const side = 4; //square area is simply four times the side length
+const side = 5;
 
-console.log("the Side length of the square is: 5 & the the area of a square is:", length * side);
+console.log(`the Side length of the square is ${side} therefore the area of a square is, ${side * side}`);
