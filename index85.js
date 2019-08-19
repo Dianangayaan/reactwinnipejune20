@@ -7,7 +7,7 @@ console.log(f1);
 let x = 10;
 let y = 2;
 
-while (y <= x){
+do{
 
 f2 = f1 + f0 ;
 
@@ -16,4 +16,4 @@ console.log(f2);
 f0 = f1;
 f1 = f2;
 y++;
-}
+}while (y <= x);
