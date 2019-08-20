@@ -1,0 +1,12 @@
+let iceCreamFlavors = [];
+iceCreamFlavors.unshift('rocky road');
+iceCreamFlavors.unshift('strawberry');
+iceCreamFlavors.unshift('chocolate');
+iceCreamFlavors.unshift('tutti frutti');
+iceCreamFlavors.unshift('nut ice cream');
+iceCreamFlavors.unshift('mint chocolate chip');
+iceCreamFlavors.unshift('vanilla');
+iceCreamFlavors.unshift('ube');
+iceCreamFlavors.unshift('teaberry');
+iceCreamFlavors.unshift('moon mist');
+console.log(iceCreamFlavors);

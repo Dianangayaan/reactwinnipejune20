@@ -1,0 +1,2 @@
+let movies = ['Transformers','Home Alone','Boss Baby','Wonder Woman','Journey 2','Stranger Things','Avengers','X Men','Fast & Furious','Incredibles 2'];
+console.log('the first movie name', movies[0],'& the last movie name',movies[movies.length-1]);

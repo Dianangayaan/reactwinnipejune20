@@ -1,0 +1,10 @@
+let icecreamflavor = ['rocky road','strawberry','chocolate','tutti frutti','nut ice cream','mint chocolate chip','vanilla','ube','teaberry','moonmist'];
+let moonmist = icecreamflavor.pop();
+let  teaberry = icecreamflavor.pop();
+let  ube = icecreamflavor.pop();
+let  vanilla = icecreamflavor.pop();
+console.log(icecreamflavor);
+console.log(moonmist);
+console.log(teaberry);
+console.log(ube);
+console.log(vanilla);
