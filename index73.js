@@ -1,5 +1,5 @@
 let number = 1;
-let x = 13 ;
+let x = 13;
 
 while (x >= number){
 
